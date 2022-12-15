@@ -1,2 +1,31 @@
-
+td,th{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+    height: 20%;
+}
+th{
+    text-align: left;
+}
+td{
+    text-align: right;
+}
+thead{
+    background-color: brown;
+    color: white;
+}
+#row1{
+    background-color: indianred;
+    color: white;
+}
+#row2{
+    background-color: antiquewhite;
+    color: black;
+}
+#row3{
+    background-color: darkgrey;
+    color: black;
+}
 /* Your CSS Code here. */
